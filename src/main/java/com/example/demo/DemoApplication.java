@@ -11,6 +11,8 @@ import java.util.logging.Logger;
 public class DemoApplication {
 
 	public static void main(String[] args) {
+		int v;
+
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
